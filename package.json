@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "got": "^11.3.0"
+    "got": "^11.8.5"
   },
   "name": "got11",
   "version": "1.0.0",
